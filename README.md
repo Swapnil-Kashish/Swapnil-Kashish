@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Swapnil Kashish
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java and Data Structure and Algorithms
+- 🌱 I’m working in VRIZE as Software Engineer: I am Working on designing and developing multiple OMS Services using IBM Sterling product and Java to provide efficient Order flow for the client. Also learning Springboot application adapting microservices architecture.
 - 📫 How to reach me...  
 E-mail :- swapnil2904k@gmail.com  
 LinkedIn :- www.linkedin.com/in/swapnil-kashish-4919371ab
